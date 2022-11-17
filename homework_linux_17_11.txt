@@ -1,0 +1,10 @@
+Thu Nov 17 22:21:28 UTC 2022
+Used
+2.3G
+   0 mkdir /tmp/homework
+   1 touch /tmp/homework/homework.txt
+   2 date >> /tmp/homework/homework.txt
+   3 df -h | awk '{print $3}' | head -2 >> /tmp/homework/homework.txt
+   4 history | tail -5 >> /tmp/homework/homework.txt
+AuthenticX86
+33
